@@ -1,2 +1,1 @@
-BUILD SUCCESSFUL in 22s
-3 actionable tasks: 3 executed
+[![Java CI with Gradle](https://github.com/bawoper/NewTry/actions/workflows/gradle.yml/badge.svg)](https://github.com/bawoper/NewTry/actions/workflows/gradle.yml)
